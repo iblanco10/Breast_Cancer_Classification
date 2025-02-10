@@ -1,0 +1,9 @@
+Model,Accuracy,True Positives (TP),True Negatives (TN),False Positives (FP),False Negatives (FN)
+decision_tree,0.9415204678362572,60,101,2,8
+kernel_svm,0.9473684210526316,61,101,2,7
+knn,0.9473684210526316,60,102,1,8
+linear_svm,0.953216374269006,61,102,1,7
+logistic_regression,0.953216374269006,61,102,1,7
+naive_bayes,0.9649122807017544,65,100,3,3
+random_forest,0.935672514619883,58,102,1,10
+xgboost,0.953216374269006,61,102,1,7
